@@ -15,6 +15,6 @@
 
 **Date Format**: [Oracle Date Format](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)
 
-**File Upload:**: Upload the source data json  files to HDFS in the /tmp directory
+**File Upload**: Upload the source data json  files to HDFS in the /tmp directory
 
 ![AirNow](http://www.sonomatech.com/sites/default/files/Plain_large_T.png "EPA Air Now")
