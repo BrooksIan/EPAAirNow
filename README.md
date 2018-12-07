@@ -1,6 +1,6 @@
 ## Data Science In Apache Spark
-### Science!!!! Change me!
 ### EPA Air Now
+#### Exploring EPA Air Now Data 
 
 **Language**: Scala
 **Requirements**: 
