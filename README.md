@@ -9,7 +9,7 @@
 
 **Author**: Ian Brooks
 
-**Follow**: [LinkedIn - Ian Brooks PhD](https://www.linkedin.com/in/ianrbrooksphd/)
+**Follow**: [LinkedIn Ian Brooks PhD](https://www.linkedin.com/in/ianrbrooksphd/)
 
 **Source Data**: [EPA Air Now Search Site](https://aqs.epa.gov/api)
 
